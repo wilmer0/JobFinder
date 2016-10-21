@@ -1,0 +1,2 @@
+C:\Users\wilmer\Documents\Visual Studio 2013\Projects\JobFinder\jobFinderModelos\obj\Debug\jobFinderModelos.csprojResolveAssemblyReference.cache
+C:\Users\wilmer\Documents\Visual Studio 2013\Projects\JobFinder\jobFinderModelos\bin\Debug\jobFinderModelos.exe.config
